@@ -1,0 +1,92 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+
+    <title>Document</title>
+    <style>.container{
+        display: flex;
+        flex-direction: column;/*stacks  the child div vertically*/
+        align-items: center;/*put the partnt div at center horzontaliy*/
+        height: 600px;/*alines the card height to 594px*/
+        width: 300px;/*alines tht card width to 300px*/
+        border-radius: 5px;/*it round the edge of the card to 5px*/
+        background-color: hsl(0, 0%, 12%);/*it changes the background color of the card */
+        padding: 20px;
+        text-align: center;/*puts the text wriiten in the card at center*/
+    color:white; /* it sets the color of the text to white*/}  
+    body{
+    display: flex;/*display's the boxes*/
+    background-color:  hsl(0, 0%, 8%);/* sets the background color of the page in too blacck*/
+    align-items: center;/* it alings the card at the center of the screen*/
+    justify-content: center;/* this too*/
+    margin: 0;
+}
+.box{
+background-color: hsl(0, 0%, 20%);/* sets the back ground color into a given color*/
+width: 258px;
+height: 47px;
+margin: 6px;
+display: flex;
+align-items: center;
+justify-items: center;
+border-radius :10px;
+text-align: center;
+    text-decoration: none;
+    color: white;
+} 
+.box a { text-decoration: none; /* Remove text decoration */
+     color: white; /* Ensure text color is visible */
+      text-align: center;/* aputs the text at the center of the child div*/
+      width: 100%;
+       display: block;
+       line-height: 47px; /* Center text vertically */ }
+       .neon{
+        color: hsl(75, 94%, 57%);
+        padding: 0;
+        margin: 0
+        ;
+        
+       }
+
+       .img {
+        font: size 31px;
+        width: 162px;
+height: 164px;
+
+border-radius: 100px;
+
+       }
+       .box a:hover{ color:  hsl(75, 94%, 57%);
+    transition: o.2s ;
+}   
+    </style>
+</head>
+<body>
+    <div class=" container" ><!-- this is the parent div -->
+        <img src="avatar-jessica.jpeg" alt="Jessica Randall" class="img">
+
+        <p class="neon">Londo,United Kingdom</p>
+        <p>"Front-end developer and avid reader"</p>
+
+        <div class="box">
+            <a href="https://github.com/">Github</a>
+        </div>
+        <div class="box">
+            <a href="https://www.frontendmentor.io/challenges">Fonrtend Mentor</a>
+        </div>
+        <div class="box">
+            <a href="https://www.linkedin.com/feed/">Linkedin</a>
+        </div>
+        <div class="box">
+            <a href="https://x.com/">Twitter</a>
+        </div>
+        <div class="box">
+            <a href="https://www.instagram.com/">Instagam</a>
+        </div>
+
+
+</div>
+
+</body>
+</html>
