@@ -1,10 +1,39 @@
-# frontend-mentor-challenge
-hello everyone my name is biniyam i am 13 years a i am doing a frontend mentor challenges to improve my 
-coding skills 
-I make the a personal card 
-I use HTML for the struchure and CSS for the  slyling i did'nt use javascript because i did not need it
-if you want to see the challange you can check it on https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
-and also you can check the full code on my git hub 
-THANK YOU !
+# 👋 Hi, I'm Biniyam!
+
+I'm a 13-year-old student and passionate self-taught web developer from Ethiopia 🇪🇹. I love building websites, learning new things every day, and I also enjoy gaming in my free time.
+
+---
+
+## 🧠 What I’ve Learned So Far
+- HTML & CSS ✅  
+- JavaScript (basic level) 🌱  
+- Programming fundamentals (at school and online)  
+- Web design and responsive layouts  
+
+---
+
+## 🚀 What I'm Working On
+- Personal websites 💻  
+- Fun mini web apps using JavaScript ⚙️  
+- Frontend Mentor challenges 🎨  
+
+---
+
+## 🎯 My Goals
+- Become a Software Engineer 👨‍💻  
+- Learn Python and Arduino 🤖  
+- Keep improving in web development 🔥  
+
+---
+
+## 📫 Connect With Me
+- GitHub: [@bini742](https://github.com/bini742)  
+- Frontend Mentor: [@bini742](https://www.frontendmentor.io/profile/bini742)  
+- Try the same challenge I did: [Social Links Profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
+
+---
+
+> "Keep coding, keep creating!" 🚀
+
 
 
